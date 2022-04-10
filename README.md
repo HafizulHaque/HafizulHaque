@@ -17,8 +17,8 @@ I am a passionate **Programmer**, **Full-Stack JS Web Developer** and **Android 
 
 🌱 **I’m currently learning ...**
 
- - React & Next.js
- - Ethreum dApp development
+ - Angular and Java Spring
+ - API Development
  
  <hr/>
  
