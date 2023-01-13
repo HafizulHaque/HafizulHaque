@@ -1,24 +1,26 @@
 👋 Hi, I’m ***Hafizul Haque*** 🙂.
 
-I am a Computer Science & Engineering **(CSE)** graduate form Chittagong University of Engineering & Technology **(CUET)**. 
+I am a professional **Full Stack Web Developer** & currently working as a **Software Developer** at **Reddot Digital Ltd**, a subsidery of reknowned TELCO company **Robi Axiata Ltd**.
 
-I am a passionate **Programmer**, **Full-Stack JS Web Developer** and **Android App developer**.
+I completed my **B.Sc.** in Computer Science & Engineering **(CSE)** form Chittagong University of Engineering & Technology **(CUET)**. 
 
 <hr/>
 
 👀 **I’m interested in ...**
 
-- Web Technology (frontend & backend)
-- Android App Development
-- Blockchain Technnology (Etherium dApp)
-- Data Science & Machine Learning
+- Web Development **(Angular, React & Spring Boot)**
+- Cross Platform Mobile App Development **(Flutter)**
+- Blockchain Technnology
+- Machine Learning
 
 <hr/>
 
 🌱 **I’m currently learning ...**
 
- - Angular and Java Spring
- - API Development
+ - Desing Pattern
+ - System Design
+ - Java Spring
+ - Scalable RESTful API Development
  
  <hr/>
  
@@ -31,7 +33,7 @@ I am a passionate **Programmer**, **Full-Stack JS Web Developer** and **Android 
 
 📫 **How to reach me ..**
 
-- **Cell No:** *01818925451*, *01961654788*
+- **Cell No:** *+8801833184155*
 - **E-mail:** [hafizulhaque.cse.cuet@gmail.com](mailto:hafizulhaque.cse.cuet@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hafizulhaque97](https://www.linkedin.com/in/hafizulhaque97)
 - **Facebook:** [facebook.com/hafizulhaque97](https://www.facebook.com/hafizulhaque97)
