@@ -1,33 +1,33 @@
 👋 Hi, I’m ***Hafizul Haque*** 🙂.
 
-I am a professional **Full Stack Web Developer** & currently working as a **Software Developer** at **Reddot Digital Ltd**, a subsidery of reknowned TELCO company **Robi Axiata Ltd**.
+I am a professional **Full-Stack Web Developer** primarily focusing on **Frontend** with **2+** years of hand-on experience. Currently I'm employed as a **Software Engineer** at **Reddot Digital Ltd**, a subsidery of reknowned TELCO company **Robi Axiata Ltd**.
 
-I completed my **B.Sc.** in Computer Science & Engineering **(CSE)** form Chittagong University of Engineering & Technology **(CUET)**. 
+I completed my **B.Sc.** in Computer Science & Engineering **(CSE)** form Chittagong University of Engineering & Technology **(CUET)** in 2021 & Secondary School Certificate **(HSC)** from Notre Dame College **(NDC)** in 2015. 
 
 <hr/>
 
 👀 **I’m interested in ...**
 
-- Web Development **(Angular, React & Spring Boot)**
-- Cross Platform Mobile App Development **(Flutter)**
-- Blockchain Technnology
-- Machine Learning
+- Frontend Development **(React, Next.js)**
+- Backend REST API Development **(Node.js, Express.js, Nest.js, PostgreSQL, Prisma)**
+- CMS **(Payload, Sanity)**
+- Cross Platform Mobile App Development **(React Native)**
 
 <hr/>
 
 🌱 **I’m currently learning ...**
 
+ - E-commerce application development
  - Desing Pattern
  - System Design
- - Java Spring
- - Scalable RESTful API Development
+ - Microservices, Docker, Kubernetes, CI/CD
  
  <hr/>
  
 💞️ **I’m looking to collaborate on ...**
 
-- any open-source project regarding web technology 
-- any ML & DS small-scale project
+- any open-source web application project 
+- any open-source E-commerce application (web/App) 
 
 <hr/>
 
@@ -37,7 +37,7 @@ I completed my **B.Sc.** in Computer Science & Engineering **(CSE)** form Chitta
 - **E-mail:** [hafizulhaque.cse.cuet@gmail.com](mailto:hafizulhaque.cse.cuet@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hafizulhaque97](https://www.linkedin.com/in/hafizulhaque97)
 - **Facebook:** [facebook.com/hafizulhaque97](https://www.facebook.com/hafizulhaque97)
-- **Twitter:** [twitter.com/HafizulHaque97](https://twitter.com/HafizulHaque97)
+- **Portfolio:** [hafizulhaque.github.io](https://hafizulhaque.github.io/)
 
 
 <!---
