@@ -33,7 +33,7 @@ I completed my **B.Sc.** in Computer Science & Engineering **(CSE)** form Chitta
 
 - **Cell No:** *+8801833184155*
 - **E-mail:** [hafizulhaque.cse.cuet@gmail.com](mailto:hafizulhaque.cse.cuet@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hafizulhaque97](https://www.linkedin.com/in/hafizul-haque)
+- **LinkedIn:** [linkedin.com/in/hafizul-haque](https://www.linkedin.com/in/hafizul-haque)
 - **Facebook:** [facebook.com/hafizulhaque97](https://www.facebook.com/hafizulhaque97)
 - **Portfolio:** [hafizulhaque.github.io](https://hafizulhaque.github.io/)
 
